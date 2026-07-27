@@ -1,6 +1,6 @@
 baseURL = "https://jaddious.github.io/site/"
 languageCode = "en-us"
-title = "Jadd Hallaj"
+title = ""
 theme = "PaperMod"
 
 [params]
@@ -10,28 +10,6 @@ theme = "PaperMod"
   ShowReadingTime = true
   ShowShareButtons = false
   ShowPostNavLinks = true
-
-[params.homeInfoParams]
-  Title = "Jadd Hallaj"
-  Content = "Architect, urban planner and researcher working on cities, governance and development."
-
-[[menu.main]]
-  identifier = "projects"
-  name = "Projects"
-  url = "/projects/"
-  weight = 10
-
-[[menu.main]]
-  identifier = "research"
-  name = "Research"
-  url = "/research/"
-  weight = 20
-
-[[menu.main]]
-  identifier = "about"
-  name = "About"
-  url = "/about.md"
-  weight = 30
 
 [caches]
   [caches.images]

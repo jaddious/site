@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Abouts on Jadd Hallaj</title>
+    <link>http://localhost:1313/site/about/</link>
+    <description>Recent content in Abouts on Jadd Hallaj</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Jul 2026 13:34:43 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/site/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/site/about/about/</link>
+      <pubDate>Sun, 26 Jul 2026 13:34:43 +0200</pubDate>
+      <guid>http://localhost:1313/site/about/about/</guid>
+      <description>&lt;p&gt;Jadd Hallaj is an architect, urban planner and researcher from Aleppo with a focus on spatial data and Geographic Information Systems. He earned his Master’s degree in Architecture from the &lt;a href=&#34;https://paris-lavillette.archi.fr&#34;&gt;ENSA Paris la Villette&lt;/a&gt; in 2019. Currently, he is a member of &lt;a href=&#34;https://www.lugarit.com/&#34;&gt;LUGARIT&lt;/a&gt;—a think-and-do tank that produces knowledge to support communities and institutions in leveraging their resources and ingenuity to consolidate “real” development on the ground. His work merges digital technologies and participatory approaches to promote territorial innovation. In 2021, he co-founded the &lt;a href=&#34;https://www.livingsummerschool.com/&#34;&gt;Living Summer School&lt;/a&gt;, an Erasmus+ informal education initiative and member of the &lt;a href=&#34;https://lina.community&#34;&gt;LINA network for European architecture&lt;/a&gt;. In 2023, his team was the recipient of the EUROPAN Award in Architecture for the development of &lt;a href=&#34;https://www.europan-europe.eu/en/exchanges/aux-fibres-de-leau&#34;&gt;Rouen’s Eastern Seine river banks&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
