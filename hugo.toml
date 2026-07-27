@@ -1,4 +1,4 @@
-baseURL = "https://YOUR-USERNAME.github.io/"
+baseURL = "https://jaddious.github.io/site/"
 languageCode = "en-us"
 title = "Jadd Hallaj"
 theme = "PaperMod"
@@ -30,7 +30,7 @@ theme = "PaperMod"
 [[menu.main]]
   identifier = "about"
   name = "About"
-  url = "/about/"
+  url = "/about.md"
   weight = 30
 
 [caches]
