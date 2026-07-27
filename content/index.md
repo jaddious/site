@@ -21,7 +21,6 @@ LUGARIT is a dynamic think-and-do tank that facilitates the interaction of stake
 - 2026-White Helmets
 - 2026-Politecnico di Bari
 
-
 **2026 - Ongoing - Associate Researcher to Dr Esther Meininghaus - Bonn International Center for Studies (BICC). ["Decolonial Epistemologies? Knowledge(s) about Conflict Resolution and Reconciliation in Syria and Jordan".](https://www.bicc.de/Projects/Decolonial%20Epistemologies-)**
 Conducting archival and ethnographic research on ṣulḥ and muṣālaḥa, local practices of conflict resolution and reconciliation in southern Syria and northern Jordan. Examining how knowledge, authority and concepts of justice have evolved across generations, political regimes and colonial borders. Archival work took place in France (AMAE-CADC & CADN, SHD), England (Kew), Jordan (RHDC, UJ) and Syria (CHD, NL). 
 
